@@ -1,0 +1,11 @@
+{
+  "name": "try-playwright-screen-capturing",
+  "private": true,
+  "scripts": {
+    "clean": "rm -rf screenshots",
+    "test": "yarn clean && playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.17.1"
+  }
+}
