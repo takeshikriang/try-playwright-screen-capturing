@@ -1,3 +1,5 @@
+## Playwright Screen Capturing
+
 This project is just for fun, not to be used for production.
 
 
